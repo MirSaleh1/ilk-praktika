@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Salam dunya men Salehem
 
@@ -5,6 +6,9 @@ Salam dunya men Salehem
 Salam dunya men ?
 
 									Salam dunya 
+=======
+	
+>>>>>>> staging
 
 
 
@@ -15,5 +19,35 @@ Salam dunya men ?
 
 
 
+<<<<<<< HEAD
 salam yaxsi
 
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+privet mir
+>>>>>>> staging
